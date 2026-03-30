@@ -1,0 +1,12 @@
+{
+  "background_color": "#1eca78",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "织旅",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "织之旅",
+  "start_url": "/",
+  "theme_color": "#1b5cdb",
+  "description": "大学生时间规划器"
+}
